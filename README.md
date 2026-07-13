@@ -2,6 +2,8 @@
 
 **A multi-model ethical deliberation system that discovers moral consensus under veil of ignorance conditions, rather than encoding it top-down.**
 
+🔗 **[Live Demo](https://ethos-round-table.base44.app)**
+
 ---
 
 ## The Problem
